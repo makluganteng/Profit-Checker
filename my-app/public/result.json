@@ -1,0 +1,424 @@
+[
+    {
+        "transactionIndex": 100,
+        "blockNumber": 18469133,
+        "transactionHash": "0xfdde725903e166374cde9dee0a0f8053325411afc5a83a9daff97ff533c94afe",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "topics": [
+            "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "0x00000000000000000000000001a8227d4e7c3068ad1000c97a059af5c5fa3476",
+            "0x000000000000000000000000dcbe64eff3670010884bfc7f30911215b453c547"
+        ],
+        "data": "0x00000000000000000000000000000000000000000000000000ff167ed81f86b6",
+        "logIndex": 198,
+        "blockHash": "0x39ba1edbbe84bebcabb704e58bad0c04e62342431960efa8907caff95b36f1cd",
+        "decodedEvent": {
+            "eventFragment": {
+                "name": "Transfer",
+                "anonymous": false,
+                "inputs": [
+                    {
+                        "name": "from",
+                        "type": "address",
+                        "indexed": true,
+                        "components": null,
+                        "arrayLength": null,
+                        "arrayChildren": null,
+                        "baseType": "address",
+                        "_isParamType": true
+                    },
+                    {
+                        "name": "to",
+                        "type": "address",
+                        "indexed": true,
+                        "components": null,
+                        "arrayLength": null,
+                        "arrayChildren": null,
+                        "baseType": "address",
+                        "_isParamType": true
+                    },
+                    {
+                        "name": "value",
+                        "type": "uint256",
+                        "indexed": false,
+                        "components": null,
+                        "arrayLength": null,
+                        "arrayChildren": null,
+                        "baseType": "uint256",
+                        "_isParamType": true
+                    }
+                ],
+                "type": "event",
+                "_isFragment": true
+            },
+            "name": "Transfer",
+            "signature": "Transfer(address,address,uint256)",
+            "topic": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "args": [
+                "0x01A8227d4e7C3068AD1000C97a059Af5C5fa3476",
+                "0xDcBE64EFf3670010884bfc7f30911215B453c547",
+                {
+                    "type": "BigNumber",
+                    "hex": "0xff167ed81f86b6"
+                }
+            ]
+        }
+    },
+    {
+        "transactionIndex": 100,
+        "blockNumber": 18469133,
+        "transactionHash": "0xfdde725903e166374cde9dee0a0f8053325411afc5a83a9daff97ff533c94afe",
+        "address": "0x102c776DDB30C754dEd4fDcC77A19230A60D4e4f",
+        "topics": [
+            "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "0x0000000000000000000000001a33a862625e5d2ccefa21e8ae91b9626863b2e1",
+            "0x00000000000000000000000001a8227d4e7c3068ad1000c97a059af5c5fa3476"
+        ],
+        "data": "0x000000000000000000000000000000000000000000000441be8e8bd664e4d12c",
+        "logIndex": 199,
+        "blockHash": "0x39ba1edbbe84bebcabb704e58bad0c04e62342431960efa8907caff95b36f1cd",
+        "decodedEvent": {
+            "eventFragment": {
+                "name": "Transfer",
+                "anonymous": false,
+                "inputs": [
+                    {
+                        "name": "from",
+                        "type": "address",
+                        "indexed": true,
+                        "components": null,
+                        "arrayLength": null,
+                        "arrayChildren": null,
+                        "baseType": "address",
+                        "_isParamType": true
+                    },
+                    {
+                        "name": "to",
+                        "type": "address",
+                        "indexed": true,
+                        "components": null,
+                        "arrayLength": null,
+                        "arrayChildren": null,
+                        "baseType": "address",
+                        "_isParamType": true
+                    },
+                    {
+                        "name": "value",
+                        "type": "uint256",
+                        "indexed": false,
+                        "components": null,
+                        "arrayLength": null,
+                        "arrayChildren": null,
+                        "baseType": "uint256",
+                        "_isParamType": true
+                    }
+                ],
+                "type": "event",
+                "_isFragment": true
+            },
+            "name": "Transfer",
+            "signature": "Transfer(address,address,uint256)",
+            "topic": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "args": [
+                "0x1a33a862625e5d2ccefa21e8Ae91b9626863B2E1",
+                "0x01A8227d4e7C3068AD1000C97a059Af5C5fa3476",
+                {
+                    "type": "BigNumber",
+                    "hex": "0x0441be8e8bd664e4d12c"
+                }
+            ]
+        }
+    },
+    {
+        "transactionIndex": 100,
+        "blockNumber": 18469133,
+        "transactionHash": "0xfdde725903e166374cde9dee0a0f8053325411afc5a83a9daff97ff533c94afe",
+        "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+        "topics": [
+            "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "0x0000000000000000000000003fc91a3afd70395cd496c647d5a6cc9d4b2b7fad",
+            "0x000000000000000000000000dcbe64eff3670010884bfc7f30911215b453c547"
+        ],
+        "data": "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "logIndex": 201,
+        "blockHash": "0x39ba1edbbe84bebcabb704e58bad0c04e62342431960efa8907caff95b36f1cd",
+        "decodedEvent": {
+            "eventFragment": {
+                "name": "Transfer",
+                "anonymous": false,
+                "inputs": [
+                    {
+                        "name": "from",
+                        "type": "address",
+                        "indexed": true,
+                        "components": null,
+                        "arrayLength": null,
+                        "arrayChildren": null,
+                        "baseType": "address",
+                        "_isParamType": true
+                    },
+                    {
+                        "name": "to",
+                        "type": "address",
+                        "indexed": true,
+                        "components": null,
+                        "arrayLength": null,
+                        "arrayChildren": null,
+                        "baseType": "address",
+                        "_isParamType": true
+                    },
+                    {
+                        "name": "value",
+                        "type": "uint256",
+                        "indexed": false,
+                        "components": null,
+                        "arrayLength": null,
+                        "arrayChildren": null,
+                        "baseType": "uint256",
+                        "_isParamType": true
+                    }
+                ],
+                "type": "event",
+                "_isFragment": true
+            },
+            "name": "Transfer",
+            "signature": "Transfer(address,address,uint256)",
+            "topic": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "args": [
+                "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+                "0xDcBE64EFf3670010884bfc7f30911215B453c547",
+                {
+                    "type": "BigNumber",
+                    "hex": "0x00"
+                }
+            ]
+        }
+    },
+    {
+        "transactionIndex": 100,
+        "blockNumber": 18469133,
+        "transactionHash": "0xfdde725903e166374cde9dee0a0f8053325411afc5a83a9daff97ff533c94afe",
+        "address": "0x13832bEC9b7029a82988017a7f6095BDf0207D62",
+        "topics": [
+            "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "0x000000000000000000000000dcbe64eff3670010884bfc7f30911215b453c547",
+            "0x0000000000000000000000001a33a862625e5d2ccefa21e8ae91b9626863b2e1"
+        ],
+        "data": "0x0000000000000000000000000000000000000000000000000000002e64ac0a8c",
+        "logIndex": 202,
+        "blockHash": "0x39ba1edbbe84bebcabb704e58bad0c04e62342431960efa8907caff95b36f1cd",
+        "decodedEvent": {
+            "eventFragment": {
+                "name": "Transfer",
+                "anonymous": false,
+                "inputs": [
+                    {
+                        "name": "from",
+                        "type": "address",
+                        "indexed": true,
+                        "components": null,
+                        "arrayLength": null,
+                        "arrayChildren": null,
+                        "baseType": "address",
+                        "_isParamType": true
+                    },
+                    {
+                        "name": "to",
+                        "type": "address",
+                        "indexed": true,
+                        "components": null,
+                        "arrayLength": null,
+                        "arrayChildren": null,
+                        "baseType": "address",
+                        "_isParamType": true
+                    },
+                    {
+                        "name": "value",
+                        "type": "uint256",
+                        "indexed": false,
+                        "components": null,
+                        "arrayLength": null,
+                        "arrayChildren": null,
+                        "baseType": "uint256",
+                        "_isParamType": true
+                    }
+                ],
+                "type": "event",
+                "_isFragment": true
+            },
+            "name": "Transfer",
+            "signature": "Transfer(address,address,uint256)",
+            "topic": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef",
+            "args": [
+                "0xDcBE64EFf3670010884bfc7f30911215B453c547",
+                "0x1a33a862625e5d2ccefa21e8Ae91b9626863B2E1",
+                {
+                    "type": "BigNumber",
+                    "hex": "0x2e64ac0a8c"
+                }
+            ]
+        }
+    },
+    {
+        "transactionIndex": 100,
+        "blockNumber": 18469133,
+        "transactionHash": "0xfdde725903e166374cde9dee0a0f8053325411afc5a83a9daff97ff533c94afe",
+        "address": "0xDcBE64EFf3670010884bfc7f30911215B453c547",
+        "topics": [
+            "0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1"
+        ],
+        "data": "0x00000000000000000000000000000000000000000000000000003f92c90c82560000000000000000000000000000000000000000000000015d7fa427748d53f4",
+        "logIndex": 203,
+        "blockHash": "0x39ba1edbbe84bebcabb704e58bad0c04e62342431960efa8907caff95b36f1cd",
+        "decodedEvent": {
+            "eventFragment": {
+                "name": "Sync",
+                "anonymous": false,
+                "inputs": [
+                    {
+                        "name": "reserve0",
+                        "type": "uint112",
+                        "indexed": false,
+                        "components": null,
+                        "arrayLength": null,
+                        "arrayChildren": null,
+                        "baseType": "uint112",
+                        "_isParamType": true
+                    },
+                    {
+                        "name": "reserve1",
+                        "type": "uint112",
+                        "indexed": false,
+                        "components": null,
+                        "arrayLength": null,
+                        "arrayChildren": null,
+                        "baseType": "uint112",
+                        "_isParamType": true
+                    }
+                ],
+                "type": "event",
+                "_isFragment": true
+            },
+            "name": "Sync",
+            "signature": "Sync(uint112,uint112)",
+            "topic": "0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1",
+            "args": [
+                {
+                    "type": "BigNumber",
+                    "hex": "0x3f92c90c8256"
+                },
+                {
+                    "type": "BigNumber",
+                    "hex": "0x015d7fa427748d53f4"
+                }
+            ]
+        }
+    },
+    {
+        "transactionIndex": 100,
+        "blockNumber": 18469133,
+        "transactionHash": "0xfdde725903e166374cde9dee0a0f8053325411afc5a83a9daff97ff533c94afe",
+        "address": "0xDcBE64EFf3670010884bfc7f30911215B453c547",
+        "topics": [
+            "0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822",
+            "0x0000000000000000000000003fc91a3afd70395cd496c647d5a6cc9d4b2b7fad",
+            "0x0000000000000000000000001a33a862625e5d2ccefa21e8ae91b9626863b2e1"
+        ],
+        "data": "0x000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ff167ed81f86b60000000000000000000000000000000000000000000000000000002e64ac0a8c0000000000000000000000000000000000000000000000000000000000000000",
+        "logIndex": 204,
+        "blockHash": "0x39ba1edbbe84bebcabb704e58bad0c04e62342431960efa8907caff95b36f1cd",
+        "decodedEvent": {
+            "eventFragment": {
+                "name": "Swap",
+                "anonymous": false,
+                "inputs": [
+                    {
+                        "name": "sender",
+                        "type": "address",
+                        "indexed": true,
+                        "components": null,
+                        "arrayLength": null,
+                        "arrayChildren": null,
+                        "baseType": "address",
+                        "_isParamType": true
+                    },
+                    {
+                        "name": "amount0In",
+                        "type": "uint256",
+                        "indexed": false,
+                        "components": null,
+                        "arrayLength": null,
+                        "arrayChildren": null,
+                        "baseType": "uint256",
+                        "_isParamType": true
+                    },
+                    {
+                        "name": "amount1In",
+                        "type": "uint256",
+                        "indexed": false,
+                        "components": null,
+                        "arrayLength": null,
+                        "arrayChildren": null,
+                        "baseType": "uint256",
+                        "_isParamType": true
+                    },
+                    {
+                        "name": "amount0Out",
+                        "type": "uint256",
+                        "indexed": false,
+                        "components": null,
+                        "arrayLength": null,
+                        "arrayChildren": null,
+                        "baseType": "uint256",
+                        "_isParamType": true
+                    },
+                    {
+                        "name": "amount1Out",
+                        "type": "uint256",
+                        "indexed": false,
+                        "components": null,
+                        "arrayLength": null,
+                        "arrayChildren": null,
+                        "baseType": "uint256",
+                        "_isParamType": true
+                    },
+                    {
+                        "name": "to",
+                        "type": "address",
+                        "indexed": true,
+                        "components": null,
+                        "arrayLength": null,
+                        "arrayChildren": null,
+                        "baseType": "address",
+                        "_isParamType": true
+                    }
+                ],
+                "type": "event",
+                "_isFragment": true
+            },
+            "name": "Swap",
+            "signature": "Swap(address,uint256,uint256,uint256,uint256,address)",
+            "topic": "0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822",
+            "args": [
+                "0x3fC91A3afd70395Cd496C647d5a6CC9D4B2b7FAD",
+                {
+                    "type": "BigNumber",
+                    "hex": "0x00"
+                },
+                {
+                    "type": "BigNumber",
+                    "hex": "0xff167ed81f86b6"
+                },
+                {
+                    "type": "BigNumber",
+                    "hex": "0x2e64ac0a8c"
+                },
+                {
+                    "type": "BigNumber",
+                    "hex": "0x00"
+                },
+                "0x1a33a862625e5d2ccefa21e8Ae91b9626863B2E1"
+            ]
+        }
+    }
+]
